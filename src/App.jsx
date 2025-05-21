@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Home test AWS Amplify</h1>
+      <h3>Stage develop</h3>
     </>
   )
 }
